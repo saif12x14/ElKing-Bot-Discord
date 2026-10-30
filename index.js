@@ -14,7 +14,7 @@ const {
   Routes 
 } = require("discord.js");
 
-const DISCORD_TOKEN = process.env.DISCORD_TOKEN || "MTU2MDUyMjE5NTc3ODY3MDY1Mw.GhFetd.zJqZYjQXuFzoy7vUHAPjYC_hpunpTVqCLi9zPk";
+const DISCORD_TOKEN = process.env.DISCORD_TOKEN || "MTU2MDUyMjE5NTc3ODY3MDY1Mw.GnnOIX.X3a6zVSOpQc33w4joJoOLf95vFOSv9NhUV_Hsk";
 const CLIENT_ID = process.env.CLIENT_ID || "1560522195778670653";
 const WEB_PORT = Number(process.env.PORT || 3000);
 const DATA_FILE = path.resolve("./bot_memory.json");
