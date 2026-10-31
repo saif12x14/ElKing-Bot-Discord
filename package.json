@@ -1,0 +1,10 @@
+{
+  "name": "elking-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mineflayer": "^4.22.0"
+  }
+}
